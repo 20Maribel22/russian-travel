@@ -3,7 +3,7 @@
  border-radius: 0px;
 }
 
-@media screen and (max-width : 425px) {
+@media screen and (max-width: 425px) {
   .header__logo {
    max-width: 142px;
   }

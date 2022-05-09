@@ -60,27 +60,27 @@
   }
 }
 
-@media screen and (max-width : 635px) {
+@media screen and (max-width: 635px) {
   .cover__link {
    min-height: 380px;
   }
 }
 
 
-@media screen and (max-width : 606px) {
+@media screen and (max-width: 606px) {
   .cover__link {
     min-height: 300px;
   }
 }
 
-@media screen and (max-width : 509px) {
+@media screen and (max-width: 509px) {
   .cover__link {
     width: 100%;
     min-height: 280px;
   }
 }
 
-@media screen and (max-width : 475px) {
+@media screen and (max-width: 475px) {
   .cover__link {
    width: 100%;
    min-height: 200px;

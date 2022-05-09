@@ -10,7 +10,7 @@
  padding: 0 0 26px 0;
 }
 
-@media screen and (max-width : 768px) {
+@media screen and (max-width: 768px) {
  .place__paragraph {
    width: 100%;
    font-family: Inter;
@@ -21,28 +21,26 @@
   }
 }
 
-@media screen and (max-width : 860px) {
+@media screen and (max-width: 860px) {
   .place__paragraph {
    width: 80%;
   }
 }
 
-@media screen and (max-width : 750px) {
+@media screen and (max-width: 750px) {
   .place__paragraph {
-
-    font-size: 16px;
-    line-height: 22px;
+   font-size: 16px;
+   line-height: 22px;
   }
 }
 
-@media screen and (max-width : 690px) {
+@media screen and (max-width: 690px) {
   .place__paragraph {
-
    line-height: 20px;
   }
 }
 
-@media screen and (max-width : 475px) {
+@media screen and (max-width: 475px) {
   .place__paragraph {
    max-width: 288px;
    margin: 0;

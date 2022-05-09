@@ -11,7 +11,7 @@
 
 }
 
-@media screen and (max-width : 555px) {
+@media screen and (max-width: 555px) {
   .cover__title {
    max-width: 250px;
    min-height: 70px;
