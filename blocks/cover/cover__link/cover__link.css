@@ -32,28 +32,28 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width : 1184px) {
+@media screen and (max-width: 1184px) {
  .cover__link {
    width: 100%;
    min-height: 640px;
  }
 }
 
-@media screen and (max-width : 1025px) {
+@media screen and (max-width: 1025px) {
   .cover__link {
     width: 100%;
     min-height: 480px;
   }
 }
 
-@media screen and (max-width : 767px) {
+@media screen and (max-width: 767px) {
  .cover__link {
    width: 100%;
    min-height: 420px;
  }
 }
 
-@media screen and (max-width : 670px) {
+@media screen and (max-width: 670px) {
   .cover__link {
     width: 100%;
    min-height: 400px;
