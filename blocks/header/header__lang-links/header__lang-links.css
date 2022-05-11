@@ -2,5 +2,6 @@
  display: flex;
  justify-content: space-between;
  margin: 0 0 8px;
+ list-style-type: none;
 }
 
