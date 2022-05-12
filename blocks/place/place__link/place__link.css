@@ -6,10 +6,7 @@
  list-style: none;
  color: white;
  margin: 0;
- padding: 0;
- position: absolute;
- content: '';
- transition: 0.8s;
+ transition-duration: 0.8s;
 }
 
 .place__link:hover {
